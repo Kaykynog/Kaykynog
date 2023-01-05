@@ -1,6 +1,6 @@
-### Olá, Eu sou o Kayky👋
+### Olá 😀
 
-# Kayky Nogueira
+# Kayky Nogueira 🇧🇷
 README
 <div align="center">
   <a href="https://github.com/Kaykynog">
