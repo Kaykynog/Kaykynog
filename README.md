@@ -1,4 +1,4 @@
-### Olá 😀
+### Olá :bowtie:
 # Kayky Nogueira 
 README
 <div align="center">
