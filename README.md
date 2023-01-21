@@ -1,5 +1,5 @@
 ### Olá :bowtie:
-# Kayky Nogueira :trollface:
+# Kayky Nogueira 
 README
 
   ##
