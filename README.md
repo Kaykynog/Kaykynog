@@ -1,8 +1,11 @@
 ## _Olá! Seja bem-vindo ao meu perfil no GitHub!_
 ### _Me chamo Kayky Nogueira, sou um estudante fascinado pela tecnologia_ 🧑‍💻
-#### Tecnologias:
+### Tecnologias:
   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" />  <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" heigth="40"/>
+          
+          
+          
   
 
  ### _Contatos:_
